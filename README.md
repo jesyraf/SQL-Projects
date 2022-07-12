@@ -1,1 +1,1 @@
-# SQL-Projects I made
+# SQL Projects
